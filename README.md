@@ -1,6 +1,7 @@
 # Label Propagation
 
-https://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf
+- https://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf
+- https://mlg.eng.cam.ac.uk/zoubin/ssl.html
 
 ## Setup & Install
 
