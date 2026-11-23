@@ -1,0 +1,2 @@
+dataset,n,l,u,entropy_init_bits,entropy_final_bits,acc_cmn_init,acc_cmn_final,acc_thresh_init,acc_thresh_final,sigma_min,sigma_median,sigma_max
+MNIST_bin (1 vs 2),2200,92,2108,0.995722948055704,0.40251680862704625,0.9255218216318786,0.9350094876660342,0.5,0.9345351043643264,0.17457744554122306,4.711656792151535,1291.7094870983397
